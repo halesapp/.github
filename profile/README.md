@@ -11,6 +11,8 @@
     - https://maps.hales.app
     - https://github.com/halesapp/maps
     - [![Netlify Status](https://api.netlify.com/api/v1/badges/be562f57-c0df-4e3f-8e81-89e6c169bf1d/deploy-status)](https://app.netlify.com/sites/rch-maps/deploys)
+  - Family Site (goole site)
+    - https://family.hales.app
 
 - Engineering Tools
   - Hydraulic Toolbox
@@ -26,6 +28,9 @@
     - https://github.com/rileyhales/saber-hbc
     - [![Documentation Status](https://readthedocs.org/projects/saber-hbc/badge/?version=latest)](https://saber.hales.app/en/latest/?badge=latest)
 
+- Education (*.courses.hales.app)
+  - Remote Sensing for Engineers (google site)
+    - https://rs4eng.courses.hales.app
 
 - Board Game Helpers (*.games.hales.app)
   - Quixx:
@@ -40,3 +45,6 @@
     - https://ttt.games.hales.app
     - https://github.com/halesapp/tic-tac-toe
     - [![Netlify Status](https://api.netlify.com/api/v1/badges/872a80b4-8d33-4ad1-97ac-0d914c07f17e/deploy-status)](https://app.netlify.com/sites/rch-ttt/deploys)
+  - Murder at the Pizzeria (goole site)
+    - https://murder-pizzeria.games.hales.app
+
