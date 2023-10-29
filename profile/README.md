@@ -11,7 +11,7 @@
     - https://maps.hales.app
     - https://github.com/halesapp/maps
     - [![Netlify Status](https://api.netlify.com/api/v1/badges/be562f57-c0df-4e3f-8e81-89e6c169bf1d/deploy-status)](https://app.netlify.com/sites/rch-maps/deploys)
-  - Family Site (goole site)
+  - Family Site (google site)
     - https://family.hales.app
 
 - Engineering Tools
@@ -33,10 +33,10 @@
     - https://rs4eng.courses.hales.app
 
 - Board Game Helpers (*.games.hales.app)
-  - Quixx:
-    - https://quixx.games.hales.app
-    - https://github.com/halesapp/react-quixx
-    - [![Netlify Status](https://api.netlify.com/api/v1/badges/7cd9a5e3-af1e-4140-a4e3-a2b48f6e180e/deploy-status)](https://app.netlify.com/sites/rch-quixx/deploys)
+  - Qwixx:
+    - https://qwixx.games.hales.app
+    - https://github.com/halesapp/react-qwixx
+    - [![Netlify Status](https://api.netlify.com/api/v1/badges/7cd9a5e3-af1e-4140-a4e3-a2b48f6e180e/deploy-status)](https://app.netlify.com/sites/rch-qwixx/deploys)
   - Betrayal at House on the Hill
     - https://bhh.games.hales.app
     - https://github.com/halesapp/react-betrayal
@@ -45,6 +45,6 @@
     - https://ttt.games.hales.app
     - https://github.com/halesapp/tic-tac-toe
     - [![Netlify Status](https://api.netlify.com/api/v1/badges/872a80b4-8d33-4ad1-97ac-0d914c07f17e/deploy-status)](https://app.netlify.com/sites/rch-ttt/deploys)
-  - Murder at the Pizzeria (goole site)
+  - Murder at the Pizzeria (google site)
     - https://murder-pizzeria.games.hales.app
 
