@@ -3,48 +3,19 @@
 - Homepage
   - https://hales.app
 
-- Personal Tools
-  - Movies Database
-    - https://movies.hales.app
-    - https://github.com/halesapp/react-movies
-  - Web Map Service App
-    - https://maps.hales.app
-    - https://github.com/halesapp/maps
-    - [![Netlify Status](https://api.netlify.com/api/v1/badges/be562f57-c0df-4e3f-8e81-89e6c169bf1d/deploy-status)](https://app.netlify.com/sites/rch-maps/deploys)
-  - Family Site (google site)
-    - https://family.hales.app
-
 - Engineering Tools
   - Hydraulic Toolbox
     - https://hydraulics.hales.app
-    - https://github.com/rileyhales/react-hydraulic-toolbox (private)
-    - [![Netlify Status](https://api.netlify.com/api/v1/badges/5ea2661a-824d-4fac-96c7-408d08cbb503/deploy-status)](https://app.netlify.com/sites/rch-hydraulics/deploys)
-  - Grids Python Package
-    - https://grids.hales.app
-    - https://github.com/rileyhales/grids
-    - [![Documentation Status](https://readthedocs.org/projects/tsgrids/badge/?version=latest)](https://grids.hales.app/en/latest/?badge=latest)
-  - SABER Python Package
-    - https://saber.hales.app
-    - https://github.com/rileyhales/saber-hbc
-    - [![Documentation Status](https://readthedocs.org/projects/saber-hbc/badge/?version=latest)](https://saber.hales.app/en/latest/?badge=latest)
 
 - Education (*.courses.hales.app)
-  - Remote Sensing for Engineers (google site)
-    - https://rs4eng.courses.hales.app
+  - Remote Sensing for Engineers
 
-- Board Game Helpers (*.games.hales.app)
-  - Qwixx:
-    - https://qwixx.games.hales.app
-    - https://github.com/halesapp/react-qwixx
-    - [![Netlify Status](https://api.netlify.com/api/v1/badges/7cd9a5e3-af1e-4140-a4e3-a2b48f6e180e/deploy-status)](https://app.netlify.com/sites/rch-qwixx/deploys)
-  - Betrayal at House on the Hill
-    - https://bhh.games.hales.app
-    - https://github.com/halesapp/react-betrayal
-    - [![Netlify Status](https://api.netlify.com/api/v1/badges/7fb2a43c-2152-42da-a806-a2b2c6fe0143/deploy-status)](https://app.netlify.com/sites/rch-bhh/deploys)
-  - Tic Tac Toe
-    - https://ttt.games.hales.app
-    - https://github.com/halesapp/tic-tac-toe
-    - [![Netlify Status](https://api.netlify.com/api/v1/badges/872a80b4-8d33-4ad1-97ac-0d914c07f17e/deploy-status)](https://app.netlify.com/sites/rch-ttt/deploys)
-  - Murder at the Pizzeria (google site)
-    - https://murder-pizzeria.games.hales.app
-
+| App                      | URL                              |
+| ------------------------ | -------------------------------- |
+| games (landing page)     | https://games.hales.app          |
+| betrayal-character-cards | https://games.hales.app/betrayal |
+| qwixx-scorecards         | https://games.hales.app/qwixx    |
+| welcome-to-scorecards    | https://games.hales.app/welcome  |
+| clue-notepad             | https://clue.hales.app           |
+| movies                   | https://movies.hales.app         |
+| Murder at the Pizzeria   | private                          |
